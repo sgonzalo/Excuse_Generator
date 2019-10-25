@@ -3,7 +3,7 @@ window.onload = function() {
 
  generateexcuse = () => {
   let pronoun = ['The ', 'A ', 'My ', 'Your ', 'His '];
-  let who = [' mongoose', ' ostrich', ' giraffe', ' monkey', ' honey badger'];
+  let who = [' mongoose', ' ostrich', ' giraffe', ' chicken', ' honey badger'];
   let verb = [' slapped', ' bit', ' kissed', ' destroyed', ' married'];
   let location = [' in the White House',' in club eleven',' at 4geeks',' on the metro mover',' on calle 8'];
   let noun = [' Mayor Gimenez',' Donald Trump',' Joe Biden',' Obama',' Vladimir Putin'];
